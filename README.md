@@ -1,0 +1,2 @@
+# RawVersionOfLinuxServer
+早期版本Linux轻量级服务器，保留了较多的游双风格
